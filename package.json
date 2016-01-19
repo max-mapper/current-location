@@ -1,0 +1,29 @@
+{
+  "name": "current-location",
+  "version": "1.0.0",
+  "description": "Get your current location (latitude, longitude) on the command line as JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "bin": {
+    "current-location": "node index.js"
+  },
+  "author": "max ogden",
+  "license": "ISC",
+  "dependencies": {
+    "wifi-triangulate": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxogden/current-location.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/maxogden/current-location/issues"
+  },
+  "homepage": "https://github.com/maxogden/current-location#readme"
+}
