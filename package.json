@@ -1,6 +1,6 @@
 {
   "name": "current-location",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get your current location (latitude, longitude) on the command line as JSON",
   "main": "index.js",
   "scripts": {
