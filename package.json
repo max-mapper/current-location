@@ -7,7 +7,7 @@
     "test": "standard"
   },
   "bin": {
-    "current-location": "index.js"
+    "current-location": "cli.js"
   },
   "author": "max ogden",
   "license": "ISC",
